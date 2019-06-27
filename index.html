@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+	<head>
+		<title>Motion Sensing Data</title>
+		<link rel="stylesheet" href='../Static/style.css'/>
+	</head>
+	<body>
+		<h1>Raspberry Pi Motion Sensing Data</h1>
+		<hr>
+		<h3> Historical Data </h3>
+		<p> Enter number of seconds before now: 
+		<form method ="POST">
+			<input name ="numSamples" value = {{numSamples}}>
+			<input type ="Submit">
+		</form></p>
+		<hr>
+		<img src ="/plot/dist" alt ="Image Placeholder" width = "40%">
+	</body>
+</html>
