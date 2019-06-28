@@ -1,19 +1,50 @@
 {
-  "name": "MMM-GooglePhotos",
-  "version": "1.1.0",
-  "description": "MagicMirror module for Google Photos",
-  "license": "MIT",
-  "author": "eouia0819@gmail.com",
+  "_from": "undefined@",
+  "_id": "undefined@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-m3BqSzKtMMIMpP5l3cu72sMr3tA=",
+  "_location": "/undefined",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "undefined@",
+    "name": "undefined",
+    "escapedName": "undefined",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/undefined/-/undefined-0.1.0.tgz",
+  "_shasum": "9b706a4b32ad30c20ca4fe65ddcbbbdac32bded0",
+  "_spec": "undefined@",
+  "_where": "/home/pi/MagicMirror/modules",
+  "author": {
+    "name": "Irakli Gozalishvili",
+    "email": "rfobic@gmail.com",
+    "url": "http://jeditoolkit.com"
+  },
+  "bugs": {
+    "url": "https://github.com/Gozala/undefined.js/issues/"
+  },
+  "bundleDependencies": false,
+  "deprecated": "this package has been deprecated",
+  "description": "Just require undefined & everything gonna be defined!",
+  "homepage": "https://github.com/Gozala/undefined",
+  "id": "undefined",
+  "keywords": [
+    "undefined",
+    "JS",
+    "troll"
+  ],
+  "name": "undefined",
   "repository": {
     "type": "git",
-    "url": "https://github.com/eouia/MMM-GooglePhotos"
+    "url": "git+https://github.com/Gozala/undefined.js.git",
+    "web": "https://github.com/Gozala/undefined.js"
   },
-  "dependencies": {
-    "google-auth-library": "^1.6.1",
-    "grpc": "^1.13.0",
-    "opn": "^5.3.0"
-  },
-  "devDependencies": {
-    "electron-rebuild": "^1.8.2"
-  }
+  "version": "0.1.0"
 }
